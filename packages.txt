@@ -1,0 +1,4 @@
+zlib1g-dev
+libjpeg-dev
+libstdc++6  # Necessário para Prophet
+g++
