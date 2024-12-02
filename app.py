@@ -251,4 +251,4 @@ Com aprimoramentos contínuos, como a incorporação de mais variáveis externas
     st.write("Evolução dos preços internacionais: https://www.ibp.org.br/observatorio-do-setor/snapshots/evolucao-dos-precos-internacionais-do-petroleo-e-projecoes-para-2025/")
     st.write("Biblioteca para criação do site: https://streamlit.io")
     st.write("Colab com o treinamento do modelo: https://colab.research.google.com/drive/1ZXn5adG_l3gDLXuUWxLN1DDgyULNUE2j?usp=sharing")
-    st.writ("Graficos feitos no colab: https://colab.research.google.com/drive/1IeG2tzjlvSjUi8EF9z1BvxwG0B50UCtZ")
+    st.write("Graficos feitos no colab: https://colab.research.google.com/drive/1IeG2tzjlvSjUi8EF9z1BvxwG0B50UCtZ")
