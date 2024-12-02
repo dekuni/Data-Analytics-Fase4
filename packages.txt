@@ -1,4 +1,4 @@
 zlib1g-dev
 libjpeg-dev
-libstdc++6  # Necessário para Prophet
+libstdc++6
 g++
